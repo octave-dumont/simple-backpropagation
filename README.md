@@ -3,7 +3,7 @@
 
 A lightweight backpropagation engine for building and training neural networks from scratch using NumPy. It implements scalar-level differentiation, and has a multi-layer perceptron (MLP) built on top of it. 
 
-> This code is mainly based on Karpathy's micrograd course, adjusted to implement some additional features such as custom-functions handling. 
+> This code is mainly based on Karpathy's micrograd course, adjusted to implement additional features such as custom-functions handling. 
 
 ---
 
