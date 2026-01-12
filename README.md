@@ -92,7 +92,7 @@ Optimization is made using an MSE loss:
 
 $$L = \sum_i (y_\text{pred} - y_\text{true})^2$$
 
-> Remark: it is extreemely easy to implement any loss you want inside the code.
+> Remark: it is extremely easy to implement any loss you want inside the code.
 
 ---
 
